@@ -1,8 +1,8 @@
 [
     {
         "name": "sakura",
-        "url": "image1:https://iili.io/J7Amwk7.jpg",
-        "previewUrl": "image1:https://iili.io/J7Amwk7.jpg",
+        "url": "https://iili.io/J7Amwk7.jpg",
+        "previewUrl": "https://iili.io/J7Amwk7.jpg",
         "categories": "",
         "premium": false
     },
